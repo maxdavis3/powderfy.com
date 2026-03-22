@@ -1,0 +1,183 @@
+baseURL = "https://powderfy.com/"
+languageCode = "en-us"
+title = "Powderfy"
+theme = "printwire"
+
+[params]
+tagline       = "Compare metal powder suppliers, verify certifications, and source DMLS-grade feedstock from qualified atomisers worldwide."
+description   = "Powderfy is the metal powder marketplace — compare pricing, certifications, and availability from vetted atomisers. Ti6Al4V, 316L, IN718, AlSi10Mg in stock."
+keywords      = "metal powder marketplace, compare powder suppliers, DMLS powder compare, SLM powder price, powder certification, AM feedstock marketplace"
+logoEmoji     = "⚗️"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#94a3b8"
+colorPrimaryDark  = "#7a8fa5"
+colorPrimaryLight = "#b8c7d9"
+colorBgDark       = "#06070d"
+colorBgSection    = "#09090f"
+colorBgCard       = "#0e0f18"
+colorBgCardHover  = "#121320"
+
+fontPrimary   = "Orbitron"
+fontSecondary = "Space+Grotesk"
+
+newsFallbackImages = ["https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"]
+
+heroEyebrow  = "Metal Powder Marketplace"
+heroTitle    = "<em>Powderfy</em>"
+heroSubtitle = "Compare metal powder suppliers, verify certifications, and source DMLS-grade feedstock from qualified atomisers worldwide."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+
+overviewTitle   = "Compare, Qualify, Source"
+overviewText    = "Multiple atomisers, one platform. Compare pricing, lead times, and certification levels for DMLS and SLM powder — from Ti6Al4V to Inconel, instantly."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsTitle = "Industries We Serve"
+servicesTitle    = "Powderfy Services"
+servicesSubtitle = "Compare metal powder suppliers, verify certifications, and source DMLS-grade feedstock from qualified atomisers worldwide."
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "Compare metal powder suppliers, verify certifications, and source DMLS-grade feedstock from qualified atomisers worldwide."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 20
+suffix = "+"
+label  = "Vetted Suppliers"
+
+[[params.stats]]
+count  = 200
+suffix = "+"
+label  = "Powder SKUs Listed"
+
+[[params.stats]]
+count  = 50
+suffix = "+"
+label  = "Countries Shipping To"
+
+[[params.stats]]
+count  = 24
+suffix = "hr"
+label  = "Quote Response Time"
+
+
+[[params.applications]]
+title       = "Powder Comparison"
+description = "Side-by-side comparison of pricing, PSD, chemistry, and certification across suppliers."
+image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+
+[[params.applications]]
+title       = "Supplier Qualification"
+description = "Pre-vetted supplier documentation for AS9100 and ISO 13485 incoming quality control."
+image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+
+[[params.applications]]
+title       = "Spot & Contract Buying"
+description = "Spot purchases from stock or longer-term supply contracts with volume pricing."
+image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+
+[[params.applications]]
+title       = "Niche & Speciality Alloys"
+description = "Low-volume speciality powder sourcing — high-entropy alloys, refractory metals, and custom blends."
+image       = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "⚗️"
+title       = "Powder Marketplace"
+description = "Compare 200+ powder SKUs across 20+ vetted suppliers — pricing, PSD, chemistry, and lead time in one view."
+
+[[params.servicesPreview]]
+icon        = "◎"
+title       = "Supplier Vetting"
+description = "AS9100 and ISO 13485 supplier pre-qualification — documentation review and on-site audit coordination."
+
+[[params.servicesPreview]]
+icon        = "📦"
+title       = "Volume Contracting"
+description = "Long-term supply agreements with volume pricing — guaranteed allocation and priority dispatch."
+
+[[params.servicesPreview]]
+icon        = "🔬"
+title       = "Speciality Sourcing"
+description = "Hard-to-find alloys, high-entropy powders, and custom blends sourced from specialist atomisers."
+
+
+[[params.services]]
+name        = "Powder Marketplace"
+description        = "Compare 200+ powder SKUs across 20+ vetted suppliers — pricing, PSD, chemistry, and lead time in one view."
+icon        = "⚗️"
+image        = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=800&q=80"
+
+[[params.services]]
+name        = "Supplier Vetting"
+description        = "AS9100 and ISO 13485 supplier pre-qualification — documentation review and on-site audit coordination."
+icon        = "◎"
+image        = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=800&q=80"
+
+[[params.services]]
+name        = "Volume Contracting"
+description        = "Long-term supply agreements with volume pricing — guaranteed allocation and priority dispatch."
+icon        = "📦"
+image        = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=800&q=80"
+
+[[params.services]]
+name        = "Speciality Sourcing"
+description        = "Hard-to-find alloys, high-entropy powders, and custom blends sourced from specialist atomisers."
+icon        = "🔬"
+image        = "https://images.unsplash.com/photo-1685708716815-94c588417c27?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "metalpowder.co"
+url         = "https://metalpowder.co"
+description = "Metal powder flagship"
+
+[[params.clusterLinks]]
+name        = "dmls3d.com"
+url         = "https://dmls3d.com"
+description = "Metal 3D printing"
+
+[[params.clusterLinks]]
+name        = "3dprinttitanium.com"
+url         = "https://3dprinttitanium.com"
+description = "Titanium 3D printing"
+
+[[params.clusterLinks]]
+name        = "steel3dprint.com"
+url         = "https://steel3dprint.com"
+description = "Steel 3D printing"
+
+[[menu.main]]
+name = "Home"
+url  = "/"
+weight = 1
+[[menu.main]]
+name = "About"
+url  = "/about/"
+weight = 2
+[[menu.main]]
+name = "Articles"
+url  = "/articles/"
+weight = 3
+[[menu.main]]
+name = "Services"
+url  = "/services/"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url  = "/contact/"
+weight = 5
+[[menu.main]]
+name = "Advertise"
+url  = "/advertise/"
+weight = 6
